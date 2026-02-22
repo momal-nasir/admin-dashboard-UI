@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build output (Tailwind CSS)
+dist/
+build/
+*.css.map
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
